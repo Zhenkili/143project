@@ -1,0 +1,317 @@
+Id,Label,Hue_Name,Temperature,Start_year,End_year
+1,Gray,red,Warm,1862,1890
+2,Black Shadows,carmine,Warm,1862,1890
+3,Snow,red,Warm,1862,1890
+4,Seashell,orange,Warm,1862,1890
+5,Ivory,yellow (web color)=lemon yellow,Warm,1864,1890
+6,Honeydew,green,Cold,1867,1890
+7,Black Olive,yellowish green,Warm,1867,1890
+8,Ebony,"yellowish green, chartreuse",Cold,1867,1890
+9,Tan,orange,Warm,1873,1890
+10,Metallic Sunburst,golden yellow,Warm,1873,1890
+11,Van Dyke,orange,Warm,1873,1890
+12,Lemon Chiffon,yellow (web color)=lemon yellow,Warm,1873,1890
+13,Grullo,orange,Warm,1873,1890
+14,Dutch White,golden yellow,Warm,1873,1890
+15,Burlywood,orange,Warm,1873,1890
+16,Fawn,orange,Warm,1873,1890
+17,Caput Mortuum,red,Warm,1873,1890
+18,Chamoisee,orange,Warm,1873,1890
+19,Smoky Black,orange,Warm,1873,1890
+20,Light Yellow,yellow (web color)=lemon yellow,Warm,1873,1890
+21,Camel,orange,Warm,1873,1890
+22,Bistre,orange,Warm,1873,1890
+23,Coffee,orange,Warm,1873,1890
+24,Isabelline,orange,Warm,1874,1890
+25,Taupe,orange,Warm,1875,1890
+26,Beaver,vermilion,Warm,1875,1890
+27,Wheat,golden yellow,Warm,1875,1890
+28,Bisque,orange,Warm,1875,1890
+29,Khaki,yellow (web color)=lemon yellow,Warm,1876,1890
+30,Light Goldenrod,golden yellow,Warm,1876,1890
+31,Dark Brown,orange,Warm,1876,1890
+32,French Beige,orange,Warm,1876,1890
+33,Dark Sienna,red,Warm,1876,1890
+34,Navajo White,orange,Warm,1877,1890
+35,Granite Gray,red,Warm,1877,1890
+36,Mellow Apricot,orange,Warm,1877,1890
+37,Persian Orange,orange,Warm,1877,1890
+38,Sienna,vermilion,Warm,1877,1890
+39,Bulgarian Rose,carmine,Warm,1877,1890
+40,Lemon Meringue,golden yellow,Warm,1878,1890
+41,Silver Pink,red,Warm,1879,1890
+42,Old Gold,golden yellow,Warm,1879,1890
+43,Bronze,orange,Warm,1879,1890
+44,Sepia,orange,Warm,1879,1890
+45,Sage,yellow (web color)=lemon yellow,Warm,1880,1890
+46,Tuscany,red,Warm,1880,1888
+47,French Bistre,orange,Warm,1881,1890
+48,Old Burgundy,red,Warm,1881,1890
+49,Peach Puff,orange,Warm,1881,1890
+50,Russet,orange,Warm,1881,1889
+51,Cornsilk,golden yellow,Warm,1881,1890
+52,Antique White,orange,Warm,1881,1890
+53,Eggshell,golden yellow,Warm,1881,1890
+54,Middle Yellow,orange,Warm,1881,1890
+55,Lavender Blue,blue (web color)=ultramarine,Cold,1881,1883
+56,Citron,yellow (web color)=lemon yellow,Warm,1881,1890
+57,Seal Brown,vermilion,Warm,1881,1890
+58,Rifle Green,"yellowish green, chartreuse",Cold,1881,1890
+59,Dark Jungle,"turquoise green, bluish green",Cold,1881,1888
+60,Sandy Brown,orange,Warm,1881,1890
+61,Misty Rose,red,Warm,1881,1888
+62,Copper,orange,Warm,1881,1890
+63,Light French,golden yellow,Warm,1881,1890
+64,Earth Yellow,orange,Warm,1881,1890
+65,Timberwolf,orange,Warm,1881,1890
+66,Vegas Gold,golden yellow,Warm,1881,1890
+67,Light Salmon,vermilion,Warm,1881,1890
+68,Dim Gray,red,Warm,1881,1890
+69,Arylide Yellow,golden yellow,Warm,1881,1890
+70,Sky Blue,azure,Cold,1881,1889
+71,Misty Moss,yellow (web color)=lemon yellow,Warm,1881,1890
+72,Firebrick,red,Warm,1881,1890
+73,Tumbleweed,orange,Warm,1881,1890
+74,Fuzzy Wuzzy,vermilion,Warm,1881,1889
+75,Rocket Metallic,carmine,Warm,1881,1881
+76,Lavender Blush,carmine,Warm,1881,1890
+77,Copper Red,vermilion,Warm,1881,1890
+78,Slate Blue,hyacinth,Cold,1881,1890
+79,Deep Space,cerulean blue,Cold,1881,1890
+80,Eggplant,"ruby red, crimson",Warm,1881,1887
+81,Kombu Green,leaf green,Cold,1882,1890
+82,Indian Yellow,orange,Warm,1882,18881889
+83,Buff,golden yellow,Warm,1882,1890
+84,Dark Khaki,yellow (web color)=lemon yellow,Warm,1882,1890
+85,Redwood,red,Warm,1882,1889
+86,Tuscan Red,red,Warm,1882,1890
+87,Gold Fusion,golden yellow,Warm,1882,1890
+88,Army Green,yellowish green,Warm,1882,1890
+89,Deep Champagne,orange,Warm,1882,1890
+90,Golden Brown,orange,Warm,1882,18881889
+91,Russian Violet,violet,Cold,1882,1887
+92,Spanish Bistre,golden yellow,Warm,1882,1890
+93,Coral,vermilion,Warm,1882,1888
+94,Medium Champagne,golden yellow,Warm,1882,1890
+95,Indian Red,red,Warm,1882,1890
+96,Burnt Umber,vermilion,Warm,1882,1890
+97,Mustard,golden yellow,Warm,1882,1890
+98,Medium Carmine,red,Warm,1882,1890
+99,Wine,carmine,Warm,1882,1889
+100,Camouflage Green,"yellowish green, chartreuse",Cold,1882,1890
+101,Oxford Blue,azure,Cold,1882,1890
+102,Glossy Grape,purple,Cold,1882,1882
+103,Cinereous,vermilion,Warm,1882,1882
+104,Cordovan,carmine,Warm,1882,1886
+105,Salmon,vermilion,Warm,1882,1889
+106,Rosewood,carmine,Warm,1882,1888
+107,Middle Grey,orange,Warm,1882,1889
+108,Feldgrau,emerald green,Cold,1882,1890
+109,Ash Grey,cobalt green,Cold,1882,1890
+110,Banana Mania,golden yellow,Warm,1882,1890
+111,Middle Red,red,Warm,1882,1889
+112,Cedar Chest,vermilion,Warm,1882,1889
+113,Moss Green,yellowish green,Warm,1882,1890
+114,Acid Green,yellow (web color)=lemon yellow,Warm,1882,1889
+115,Xanadu,cobalt green,Cold,1882,1888
+116,Dark Olive,yellowish green,Warm,1882,1890
+117,Brass,golden yellow,Warm,1882,1890
+118,Goldenrod,golden yellow,Warm,1882,1890
+119,Plum,magenta (web color),Cold,1882,1882
+120,Yellow Orange,orange,Warm,1882,1890
+121,Dark Goldenrod,golden yellow,Warm,1882,1890
+122,Orange Red,vermilion,Warm,1882,1890
+123,Fern Green,leaf green,Cold,1882,1890
+124,Light Blue,cerulean blue,Cold,1882,1890
+125,Asparagus,"yellowish green, chartreuse",Cold,1882,1890
+126,Dark Sea,green,Cold,1882,1890
+127,Dark Byzantium,reddish purple,Cold,1883,1887
+128,Deep,red,Warm,1883,1889
+129,Persian Plum,red,Warm,1883,1889
+130,Light Steel,azure,Cold,1883,1890
+131,Pale Cerulean,azure,Cold,1883,1888
+132,Olive Green,yellow (web color)=lemon yellow,Warm,1883,1890
+133,Bole,vermilion,Warm,1883,1889
+134,Black Coffee,red,Warm,1883,1886
+135,Manatee,"blue, cobalt blue",Cold,1883,1883
+136,Light Gray,red,Warm,1883,1888
+137,Desert Sand,orange,Warm,1883,1889
+138,Lavender,blue (web color)=ultramarine,Cold,1883,1890
+139,Dark Moss,yellowish green,Warm,1883,1890
+140,Maximum Green,"yellowish green, chartreuse",Cold,1883,1890
+141,Rosy Brown,red,Warm,1883,1888
+142,Chocolate,orange,Warm,1884,1890
+143,Minion Yellow,golden yellow,Warm,1884,1890
+144,Light Cyan,"turquoise blue, cyan (web color)",Cold,1884,1888
+145,Pale Goldenrod,yellow (web color)=lemon yellow,Warm,1884,1889
+146,Pastel Pink,red,Warm,1884,1887
+147,Bone,golden yellow,Warm,1884,1890
+148,Olivine,"yellowish green, chartreuse",Cold,1884,1890
+149,Metallic Gold,golden yellow,Warm,1884,1890
+150,Sweet Brown,red,Warm,1884,1890
+151,Brown,red,Warm,1884,1890
+152,Deep Saffron,orange,Warm,1884,1889
+153,Rust,vermilion,Warm,1884,1890
+154,Barn Red,red,Warm,1884,1890
+155,Ochre,orange,Warm,1884,1890
+156,Nickel,green,Cold,1884,1889
+157,Maximum Blue,blue (web color)=ultramarine,Cold,1885,1890
+158,Cool Grey,"blue, cobalt blue",Cold,1885,1885
+159,Windsor Tan,orange,Warm,1885,1890
+160,Saddle Brown,orange,Warm,1885,1890
+161,Rose Taupe,red,Warm,1885,1890
+162,Cadet Grey,azure,Cold,1885,1888
+163,Laurel Green,"yellowish green, chartreuse",Cold,1885,1890
+164,Key Lime,yellow (web color)=lemon yellow,Warm,1885,1888
+165,Terra Cotta,vermilion,Warm,1885,1887
+166,Mandarin,vermilion,Warm,1885,1889
+167,Straw,yellow (web color)=lemon yellow,Warm,1885,1890
+168,Tomato,vermilion,Warm,1885,1890
+169,Light Cornflower,cerulean blue,Cold,1885,1889
+170,Cadmium Orange,orange,Warm,1885,1886
+171,Steel Blue,azure,Cold,1885,1890
+172,Pale Spring,yellow (web color)=lemon yellow,Warm,1885,1888
+173,Gunmetal,cerulean blue,Cold,1885,1890
+174,Light Sky,cerulean blue,Cold,1885,1890
+175,U P,carmine,Warm,1885,1889
+176,Red,red,Warm,1885,1890
+177,Saffron,golden yellow,Warm,1886,1890
+178,Light Periwinkle,"blue, cobalt blue",Cold,1886,1886
+179,Pale Turquoise,"turquoise blue, cyan (web color)",Cold,1886,1890
+180,Glaucous,azure,Cold,1886,1890
+181,Middle Green,yellowish green,Warm,1886,1890
+182,Dark Slate,"turquoise blue, cyan (web color)",Cold,1886,18881889
+183,Cerulean Frost,azure,Cold,1886,1890
+184,Beige,yellow (web color)=lemon yellow,Warm,1886,1888
+185,Slate Gray,azure,Cold,1886,1890
+186,Cadet Blue,"turquoise blue, cyan (web color)",Cold,1886,1890
+187,Tea Green,leaf green,Cold,1886,1889
+188,Corn,yellow (web color)=lemon yellow,Warm,1886,1890
+189,Pewter Blue,cerulean blue,Cold,1886,1890
+190,Dodger Blue,azure,Cold,1886,1890
+191,Royal Blue,"blue, cobalt blue",Cold,1886,1890
+192,Lapis Lazuli,azure,Cold,1886,1890
+193,Teal Blue,cerulean blue,Cold,1886,1890
+194,Brunswick Green,"turquoise green, bluish green",Cold,1886,1886
+195,Phthalo Green,emerald green,Cold,1886,1888
+196,Carnelian,red,Warm,1886,1890
+197,Cornflower Blue,"blue, cobalt blue",Cold,1886,1887
+198,Olive,yellow (web color)=lemon yellow,Warm,1886,1887
+199,Olive Drab,yellowish green,Warm,1886,1890
+200,Blue Bell,blue (web color)=ultramarine,Cold,1886,1890
+201,Cardinal,carmine,Warm,1886,1886
+202,Madder Lake,carmine,Warm,1886,1889
+203,Vivid Tangerine,vermilion,Warm,1886,1886
+204,Coral Pink,red,Warm,1886,1886
+205,Claret,carmine,Warm,1886,1886
+206,Venetian Red,carmine,Warm,1886,1890
+207,Light Slate,azure,Cold,1886,1889
+208,Gamboge,golden yellow,Warm,1886,1888
+209,Japanese Carmine,carmine,Warm,1886,1886
+210,Iceberg,azure,Cold,1887,1890
+211,Russian Green,green,Cold,1887,1890
+212,Twilight Lavender,"ruby red, crimson",Warm,1887,1887
+213,Opera Maue,reddish purple,Cold,1887,1887
+214,Orange,golden yellow,Warm,1887,1890
+215,Mahogany,vermilion,Warm,1887,1889
+216,Hunter Green,cobalt green,Cold,1887,1890
+217,M S,"turquoise green, bluish green",Cold,1887,1888
+218,Jasmine,golden yellow,Warm,1887,1890
+219,Pale Green,green,Cold,1887,1890
+220,May Green,leaf green,Cold,1887,1890
+221,Yellow Green,yellowish green,Warm,1887,1890
+222,Jonquil,golden yellow,Warm,1887,1889
+223,Mode Beige,golden yellow,Warm,1887,1890
+224,Little Boy,azure,Cold,1887,1890
+225,Portland Orange,vermilion,Warm,1887,1888
+226,Fire Opal,red,Warm,1887,1887
+227,Cambridge Blue,cobalt green,Cold,1887,1889
+228,Pine Tree,"yellowish green, chartreuse",Cold,1887,1890
+229,Charcoal,azure,Cold,1887,1890
+230,Han Blue,"blue, cobalt blue",Cold,1887,1890
+231,United Nations,azure,Cold,1887,1890
+232,Sap Green,"yellowish green, chartreuse",Cold,1887,1890
+233,Old Mauve,"ruby red, crimson",Warm,1887,1888
+234,Myrtle Green,"turquoise blue, cyan (web color)",Cold,1887,1889
+235,Midnight Blue,blue (web color)=ultramarine,Cold,1887,1887
+236,Dark Orange,orange,Warm,1887,1890
+237,Spanish Orange,orange,Warm,1887,1887
+238,Carrot Orange,orange,Warm,1887,18881889
+239,Citrine,yellow (web color)=lemon yellow,Warm,1887,1889
+240,Green Sheen,"turquoise green, bluish green",Cold,1887,1890
+241,Honolulu Blue,azure,Cold,1887,1887
+242,Dark Sky,cerulean blue,Cold,1887,1890
+243,Alizarin,carmine,Warm,1887,1887
+244,Burnished Brown,vermilion,Warm,1887,1890
+245,Old Rose,carmine,Warm,1887,1887
+246,Cinnabar,red,Warm,1887,1890
+247,Wild Blue,"blue, cobalt blue",Cold,1887,1890
+248,Carolina Blue,azure,Cold,1887,1890
+249,Crystal,"turquoise blue, cyan (web color)",Cold,1887,1890
+250,Sunglow,golden yellow,Warm,1887,1890
+251,Maxmum Blue,cerulean blue,Cold,1887,1890
+252,Macaroni Cheese,orange,Warm,1887,1887
+253,Persian Red,red,Warm,1887,1890
+254,Opal,"turquoise green, bluish green",Cold,1887,1890
+255,Eton Blue,cobalt green,Cold,1887,1890
+256,Lavender Gray,blue (web color)=ultramarine,Cold,1887,1890
+257,Thistle,magenta (web color),Cold,1887,1887
+258,Middle Blue,"turquoise green, bluish green",Cold,1887,1889
+259,Lemon Curry,golden yellow,Warm,1887,1890
+260,Harvest Gold,golden yellow,Warm,1888,1888
+261,Oxblood,red,Warm,1888,1888
+262,Pink,carmine,Warm,1888,1890
+263,Celtic Blue,azure,Cold,1888,1890
+264,Celadon,green,Cold,1888,1890
+265,Pear,yellow (web color)=lemon yellow,Warm,1888,1890
+266,Dandelion,yellow (web color)=lemon yellow,Warm,1888,1890
+267,Medium Purple,hyacinth,Cold,1888,1890
+268,Scarlet,vermilion,Warm,1888,1888
+269,Mantis,leaf green,Cold,1888,1890
+270,Azure,"turquoise blue, cyan (web color)",Cold,1888,1890
+271,Ginger,orange,Warm,1888,1889
+272,Granny Smith,green,Cold,1888,1890
+273,Baby Blue,cerulean blue,Cold,1888,1888
+274,Pistachio,"yellowish green, chartreuse",Cold,1888,1889
+275,Burgundy,carmine,Warm,1888,1888
+276,Medium Slate,hyacinth,Cold,1888,1888
+277,Aquamarine,"turquoise green, bluish green",Cold,1888,1889
+278,Marigold,golden yellow,Warm,1888,1889
+279,Upsdell Red,carmine,Warm,1888,1888
+280,Wintergreen Dream,"turquoise green, bluish green",Cold,1888,1888
+281,Inchworm,"yellowish green, chartreuse",Cold,1888,1888
+282,Burnt Orange,orange,Warm,1888,1889
+283,Prussian Blue,azure,Cold,1888,1888
+284,Lincoln Green,leaf green,Cold,1888,1890
+285,Dark Lavender,violet,Cold,1888,1890
+286,Tart Orange,red,Warm,1888,1888
+287,Gold,golden yellow,Warm,1889,1889
+288,Sinopia,vermilion,Warm,1889,1889
+289,Bleu France,azure,Cold,1889,1890
+290,Orange Soda,vermilion,Warm,1889,1889
+291,Viridian,"turquoise green, bluish green",Cold,1889,1889
+292,Cerulean Blue,"blue, cobalt blue",Cold,1889,1890
+293,Dark Spring,emerald green,Cold,1889,1889
+294,Ocean Blue,blue (web color)=ultramarine,Cold,1889,1890
+295,Sea Green,emerald green,Cold,1889,1889
+296,Kelly Green,leaf green,Cold,1889,1889
+297,French Lilac,purple,Cold,1889,1889
+298,Light Pink,carmine,Warm,1889,1889
+299,Lemon Yellow,yellow (web color)=lemon yellow,Warm,1889,1889
+300,Cosmic Cobalt,blue (web color)=ultramarine,Cold,1889,1890
+301,Yellow,yellow (web color)=lemon yellow,Warm,1889,1889
+302,Cg Blue,cerulean blue,Cold,1889,1889
+303,Dark Salmon,vermilion,Warm,1889,1889
+304,Verdigris,"turquoise blue, cyan (web color)",Cold,1889,1889
+305,Fulvous,orange,Warm,1889,1889
+306,Spring Green,emerald green,Cold,1890,1890
+307,Medium Sea,emerald green,Cold,1890,1890
+308,Denim Blue,"blue, cobalt blue",Cold,1890,1890
+309,Carmine,carmine,Warm,1890,1890
+310,Forest Green,green,Cold,1890,1890
+311,International Orange,vermilion,Warm,1890,1890
+312,Plump Purple,hyacinth,Cold,1890,1890
+313,Denim,azure,Cold,1890,1890
+314,Ferrari Red,vermilion,Warm,1890,1890
+315,Egyptian Blue,"blue, cobalt blue",Cold,1890,1890
+316,Pumpkin,orange,Warm,1890,1890
